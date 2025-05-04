@@ -5,7 +5,7 @@ A plethora of bacterial defense mechanisms exist to combat infection by viruses 
 1. Rubio A, Garzón A, Moreno-Rodríguez A, Pérez-Pulido AJ. Biological warfare between two bacterial viruses in a defense archipelago sheds light on the spread of CRISPR-Cas systems. Cell Rep. 2024 Dec 24;43(12):115085. doi: 10.1016/j.celrep.2024.115085. Epub 2024 Dec 13. PMID: 39675005.
 2. Rubio A, Sprang M, Garzón A, Moreno-Rodriguez A, Pachón-Ibáñez ME, Pachón J, Andrade-Navarro MA, Pérez-Pulido AJ. Analysis of bacterial pangenomes reduces CRISPR dark matter and reveals strong association between membranome and CRISPR-Cas systems. Sci Adv. 2023 Mar 24;9(12):eadd8911. doi: 10.1126/sciadv.add8911. Epub 2023 Mar 24. PMID: 36961900; PMCID: PMC10038342.
 
-###A. baumannii has two different subtypes of the CRISPR-Cas I-F system
+### A. baumannii has two different subtypes of the CRISPR-Cas I-F system
 
 The I-Fb system always appears integrated at exactly the same site, between the thiE gene (encoding a thiamine-phosphate synthase) and a gene encoding an uncharacterized protein (DUF962). However, the I-Fa system is found to be integrated with different frequencies at different sites
 
